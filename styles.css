@@ -1,0 +1,5 @@
+/* プロフィール画像の修正 */
+img {
+    border-radius: 20%;
+    width: 200px;
+}
